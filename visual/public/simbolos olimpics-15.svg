@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ilustracion" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 610.37 482.9">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Degradado_sin_nombre_85-3);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 21px;
+      }
+
+      .cls-2 {
+        stroke: url(#Degradado_sin_nombre_85-5);
+      }
+
+      .cls-3 {
+        stroke: url(#Degradado_sin_nombre_85-4);
+      }
+
+      .cls-4 {
+        stroke: url(#Degradado_sin_nombre_85);
+      }
+
+      .cls-5 {
+        stroke: url(#Degradado_sin_nombre_85-2);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_85" data-name="Degradado sin nombre 85" x1="343.54" y1="188.36" x2="516.2" y2="188.36" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#5f1bc0"/>
+      <stop offset=".73" stop-color="#3b8fd8"/>
+      <stop offset="1" stop-color="#19dad9"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_85-2" data-name="Degradado sin nombre 85" x1="206.76" y1="185.25" x2="379.43" y2="185.25" xlink:href="#Degradado_sin_nombre_85"/>
+    <linearGradient id="Degradado_sin_nombre_85-3" data-name="Degradado sin nombre 85" x1="274.29" y1="294.95" x2="446.96" y2="294.95" xlink:href="#Degradado_sin_nombre_85"/>
+    <linearGradient id="Degradado_sin_nombre_85-4" data-name="Degradado sin nombre 85" x1="137.5" y1="297.65" x2="310.16" y2="297.65" xlink:href="#Degradado_sin_nombre_85"/>
+    <linearGradient id="Degradado_sin_nombre_85-5" data-name="Degradado sin nombre 85" x1="69.99" y1="189.71" x2="242.66" y2="189.71" xlink:href="#Degradado_sin_nombre_85"/>
+  </defs>
+  <circle class="cls-4" cx="429.87" cy="188.36" r="75.83"/>
+  <circle class="cls-5" cx="293.1" cy="185.25" r="75.83"/>
+  <circle class="cls-1" cx="360.62" cy="294.95" r="75.83"/>
+  <circle class="cls-3" cx="223.83" cy="297.65" r="75.83"/>
+  <circle class="cls-2" cx="156.32" cy="189.71" r="75.83"/>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 161.68 201.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_104);
+      }
+
+      .cls-2 {
+        fill: #5f1bc0;
+      }
+
+      .cls-3 {
+        fill: #3b8fd8;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: url(#Degradado_sin_nombre_121);
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_121" data-name="Degradado sin nombre 121" x1="1.11" y1="51.36" x2="162.78" y2="51.36" gradientTransform="translate(-7.23 40.88) rotate(-7.67)" gradientUnits="userSpaceOnUse">
+      <stop offset=".12" stop-color="#5f1bc0"/>
+      <stop offset=".37" stop-color="#5f1bc0"/>
+      <stop offset=".76" stop-color="#3f83d6"/>
+      <stop offset="1" stop-color="#19dad9"/>
+    </linearGradient>
+    <radialGradient id="Degradado_sin_nombre_104" data-name="Degradado sin nombre 104" cx="81.9" cy="51.24" fx="113.25" fy="51.24" r="31.74" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#af8ddf"/>
+      <stop offset=".88" stop-color="#5f1bc0"/>
+    </radialGradient>
+  </defs>
+  <g id="ilustracion">
+    <circle class="cls-4" cx="80.84" cy="80.84" r="75.83"/>
+    <g>
+      <g>
+        <path class="cls-2" d="M62.11,93.33v25.81c0,.47.14.93.4,1.33l11.58,17.87-.03,60.39c0,1.63,1.32,2.94,2.94,2.94h5.55c1.63,0,2.94-1.32,2.94-2.94l.03-60.4,11.54-18.28c.29-.45.42-.97.38-1.49l-1.93-25.43c-.11-1.4-1.41-2.48-2.97-2.48h-27.46c-1.65,0-2.98,1.19-2.98,2.66Z"/>
+        <rect class="cls-3" x="60.45" y="96.99" width="38.66" height="6.32" rx="3.16" ry="3.16"/>
+        <rect class="cls-3" x="60.45" y="111.32" width="38.66" height="6.32" rx="3.16" ry="3.16"/>
+        <path class="cls-1" d="M63.77,90.67c-3.27-5.68-5.45-8.92,0-12.49,5.45-3.57-9.08-10.7,0-10.38s5.81-.02,10.89-.01-4.36.34,0-7.12c4.36-7.46,6.53-7.14,6.53-7.14,0,0-6.53,9.08-1.82,8.43s7.62-.32,4.72-5.19c-2.9-4.87-15.97-8.43-5.45-19.78,10.53-11.35,15.97-21.73,10.53-21.73s4.72-7.78,5.45,0c.52,5.61.29,17.12.12,23.11-.06,2.2-1.11,4.28-2.93,5.76-2.73,2.22-6.06,6.07-3.01,10.06,4.72,6.16,10.17,6.81,10.17,6.81,0,0,4.72,0,4.36-5.19l-.36-5.19.38,20.11-9.1,8.11s-8.71,10.7,1.45,5.51c10.17-5.19-.73,6.32-.73,6.32h-31.22Z"/>
+      </g>
+      <rect class="cls-2" x="74.18" y="159.1" width="11.2" height="42.91" rx="3.55" ry="3.55" transform="translate(-100.77 260.33) rotate(-90)"/>
+    </g>
+  </g>
+</svg>

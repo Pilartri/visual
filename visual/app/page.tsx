@@ -33,36 +33,24 @@ export default function Home() {
       imageUrl: '/arco.svg',
     },
     {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
+      name: 'Futbol',
+      imageUrl: '/futbol.svg',
     },
     {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
+      name: 'Hockey',
+      imageUrl: '/hockey.svg',
     },
     {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
+      name: 'Lucha',
+      imageUrl: '/lucha.svg',
     },
     {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
+      name: 'Handball',
+      imageUrl: '/handball.svg',
     },
     {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
-    },
-    {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
-    },
-    {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
-    },
-    {
-      name: 'Katie Ledecky',
-      imageUrl: '/natacion.svg',
+      name: 'Tenis',
+      imageUrl: '/tenis.svg',
     },
   ];
 
@@ -82,8 +70,8 @@ export default function Home() {
           width={700}
           height={700}
         />
-        <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-12">
-         COLORES
+        <h1 className="text-lg font-light text-center text-gray-500 mt-12">
+         Colores
         </h1>
 
           <Image className='ml-[430px] mt-12'
@@ -94,7 +82,7 @@ export default function Home() {
         />
 
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
-         LOGOS
+         Logos
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-24"></div>
         <Image className='ml-[100px]'
@@ -117,7 +105,7 @@ export default function Home() {
         />
 
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
-         ICONOS
+         Íconos
         </h1>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-24">
@@ -127,7 +115,7 @@ export default function Home() {
         </div>
 
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
-         MEDALLERO
+         Medallero
         </h1>
 
         <Image className='ml-[350px] mt-12'
@@ -135,6 +123,87 @@ export default function Home() {
           alt="Olympic Women Participation"
           width={600}
           height={600}
+        />
+
+        <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
+        Ilustraciones
+        </h1>
+
+        <Image className='ml-[300px] mt-12'
+          src="simbolos olimpics-15.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+        <Image className='ml-[600px] mt-[-320px]'
+          src="simbolos olimpics-16.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+        <Image className='mt-2'
+          src="chicas-10.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+        <Image className='ml-[450px] mt-[-300px]'
+          src="chicas-11.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+
+        <Image className='ml-[900px] mt-[-350px]'
+          src="chicas-12.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+
+        <Image className='ml-[200px]'
+          src="chicas-13.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+          <Image className='ml-[670px] mt-[-300px]'
+          src="chicas-14.svg" 
+          alt="Olympic Women Participation"
+          width={400}
+          height={400}
+        />
+
+        <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
+        Separadores
+        </h1>  
+        <Image className='ml-[350px] mt-12'
+          src="femenino.svg" 
+          alt="Olympic Women Participation"
+          width={200}
+          height={200}
+        />
+        <h1 className="text-4xl font-black text-center text-[#5F1BBF] mt-24">
+          APLICACIÓN A LA WEB
+        </h1>
+        <p className="text-lg font-light text-center mb-16 text-gray-500 mt-8"> 
+          Inicio del Sitio Web
+        </p>
+        <Image className='ml-[250px] mt-12 shadow-lg'
+          src="inicio.svg" 
+          alt="Olympic Women Participation"
+          width={800}
+          height={800}
+        />
+
+        <p className="text-lg font-light text-center mb-16 text-gray-500 mt-16"> 
+          Sección de medallero
+        </p>
+        <Image className='ml-[250px] mt-6 shadow-lg'
+          src="medallas.svg" 
+          alt="Olympic Women Participation"
+          width={800}
+          height={800}
         />
 
       </div>
