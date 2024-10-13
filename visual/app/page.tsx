@@ -177,33 +177,55 @@ export default function Home() {
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
         Separadores
         </h1>  
-        <Image className='ml-[350px] mt-12'
+        <Image className='ml-[570px] mt-12'
           src="femenino.svg" 
           alt="Olympic Women Participation"
-          width={200}
-          height={200}
+          width={150}
+          height={150}
         />
-        <h1 className="text-4xl font-black text-center text-[#5F1BBF] mt-24">
+        <Image className='ml-[150px] mt-[-150px]'
+          src="separadores-20.svg" 
+          alt="Olympic Women Participation"
+          width={300}
+          height={300}
+        />
+
+        <Image className='ml-[850px] mt-[-150px]'
+          src="separadores-21.svg" 
+          alt="Olympic Women Participation"
+          width={300}
+          height={300}
+        />   
+
+
+        <h1 className="text-4xl font-black text-center text-[#5F1BBF] mt-36">
           APLICACIÓN A LA WEB
         </h1>
         <p className="text-lg font-light text-center mb-16 text-gray-500 mt-8"> 
           Inicio del Sitio Web
         </p>
-        <Image className='ml-[250px] mt-12 shadow-lg'
+        <Image className='ml-8 mt-12 shadow-lg'
           src="inicio.svg" 
           alt="Olympic Women Participation"
-          width={800}
+          width={600}
+          height={800}
+        />
+
+          <Image className='ml-[670px] mt-[-665px] shadow-lg'
+          src="inicio-1.svg" 
+          alt="Olympic Women Participation"
+          width={600}
           height={800}
         />
 
         <p className="text-lg font-light text-center mb-16 text-gray-500 mt-16"> 
           Sección de medallero
         </p>
-        <Image className='ml-[250px] mt-6 shadow-lg'
+        <Image className='ml-[350px] mt-6 shadow-lg'
           src="medallas.svg" 
           alt="Olympic Women Participation"
-          width={800}
-          height={800}
+          width={600}
+          height={650}
         />
 
       </div>
