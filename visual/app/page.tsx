@@ -88,7 +88,7 @@ export default function Home() {
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-24"></div>
         <Image className='ml-[550px]'
-          src="/ICONO_JJOO.png" 
+          src="/iconojjoo.png" 
           alt="Olympic Women Participation"
           width={200}
           height={300}
