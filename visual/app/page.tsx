@@ -56,15 +56,17 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-white">
-      <div className="container mx-auto py-12">
-        <h1 className="text-4xl font-black text-center text-[#5F1BBF]">
-          VISUAL
+      <Image className=''
+          src="/portada.png" 
+          alt="Olympic Women Participation"
+          width={2200}
+          height={1080}
+          />
+      <div className="container mx-auto ">
+      <h1 className="text-lg font-light text-center text-gray-500 mt-12">
+         Aros olímpicos
         </h1>
-        <p className="text-lg font-light text-center mb-16 text-gray-500"> 
-          Juegos Olímpicos
-        </p>
-
-        <Image className='ml-[300px]'
+        <Image className='ml-[300px] mt-8'
           src="desarrollo.svg" 
           alt="Olympic Women Participation"
           width={700}
@@ -82,27 +84,16 @@ export default function Home() {
         />
 
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
-         Logos
+         Logo
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-24"></div>
-        <Image className='ml-[100px]'
-          src="logo_par.svg" 
+        <Image className='ml-[550px]'
+          src="/ICONO_JJOO.png" 
           alt="Olympic Women Participation"
           width={200}
           height={300}
         />
-        <Image className='ml-[540px] mt-[-320px]'
-          src="logo2.svg" 
-          alt="Olympic Women Participation"
-          width={200}
-          height={300}
-        />
-       <Image className='ml-[960px] mt-[-320px]'
-          src="logo3.svg" 
-          alt="Olympic Women Participation"
-          width={200}
-          height={300}
-        />
+    
 
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
          Íconos
@@ -118,11 +109,11 @@ export default function Home() {
          Medallero
         </h1>
 
-        <Image className='ml-[350px] mt-12'
-          src="medallero.svg" 
+        <Image className='ml-[250px] mt-12'
+          src="/medallero.png" 
           alt="Olympic Women Participation"
-          width={600}
-          height={600}
+          width={800}
+          height={800}
         />
 
         <h1 className="text-2xl font-black text-center text-[#5F1BBF] mt-24">
